@@ -6,8 +6,6 @@ It carries three different types of media: books, CDs, and movies. In this proje
 
 ## What I learned from this exercise
 
----
-
 - The idea of object-oriented programming.
 - What class is in JS.
 - With inheritance, how parent class with properties and methods and multiple child classes work.
